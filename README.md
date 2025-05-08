@@ -34,6 +34,6 @@ git clone https://github.com/kpointtester/automation-sing.git
 ```
 
 ### Contact
-- Pankaj Joshi for more info 
-- pankaj.joshi@kpoint.com
+- Contact for more info Pankaj Joshi
+- pankaj.joshi@kpoint.com , joshijipankaj@gmail.com
 - 8570961005
